@@ -19,5 +19,6 @@
   },
   "dependencies": {
     "scss": "^0.2.4"
-  }
+  },
+  "homepage": "https://minilseon.github.io/resposive_web/dist"
 }
