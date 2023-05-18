@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.css"],"names":[],"mappings":"AAAA,EACE,QAAS,CACT,SAAY,CAEd,GACE,eAAkB,CAEpB,MACE,cAAe,CACf,eAAmB","file":"main.8d8e64c5.css","sourceRoot":"..","sourcesContent":["* {\n  margin: 0;\n  padding: 0; }\n\nli {\n  list-style: none; }\n\nul li {\n  font-size: 20px;\n  font-weight: bold; }\n"]}
